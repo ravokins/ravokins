@@ -3,7 +3,7 @@
 <p1 align="center">Creative Game Developer with an eye for engaging, interactive experiences. A dedicated professional with more than 3+ years of experience implementing various gameplay mechanics for multiple platforms and projects.</p1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
+Creative Game Developer with an eye for engaging, interactive experiences. A dedicated professional with more than 3+ years of experience implementing various gameplay mechanics for multiple platforms and projects.
 - 👨‍💻 All of my projects are available at [https://ravokins.itch.io/](https://ravokins.itch.io/)
 
 - 💬 Ask me about **UNITY, UNREAL, GAME DEVELOPMENT**
